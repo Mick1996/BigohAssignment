@@ -1,0 +1,15 @@
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\bin\Debug\net6.0\Q3 of First Week Test.exe
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\bin\Debug\net6.0\Q3 of First Week Test.deps.json
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\bin\Debug\net6.0\Q3 of First Week Test.runtimeconfig.json
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\bin\Debug\net6.0\Q3 of First Week Test.dll
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\bin\Debug\net6.0\ref\Q3 of First Week Test.dll
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\bin\Debug\net6.0\Q3 of First Week Test.pdb
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.csproj.AssemblyReference.cache
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.AssemblyInfoInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.AssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.csproj.CoreCompileInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.dll
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\ref\Q3 of First Week Test.dll
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.pdb
+C:\Users\MICKY KUMAR\source\repos\Q3 of First Week Test\obj\Debug\net6.0\Q3 of First Week Test.genruntimeconfig.cache
