@@ -1,0 +1,15 @@
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\bin\Debug\net6.0\Day 20 Q1.exe
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\bin\Debug\net6.0\Day 20 Q1.deps.json
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\bin\Debug\net6.0\Day 20 Q1.runtimeconfig.json
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\bin\Debug\net6.0\Day 20 Q1.dll
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\bin\Debug\net6.0\Day 20 Q1.pdb
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.csproj.AssemblyReference.cache
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.AssemblyInfoInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.AssemblyInfo.cs
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.csproj.CoreCompileInputs.cache
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.dll
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\refint\Day 20 Q1.dll
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.pdb
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\Day 20 Q1.genruntimeconfig.cache
+C:\Users\MICKY KUMAR\source\repos\Day 20 Q1\obj\Debug\net6.0\ref\Day 20 Q1.dll
